@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://jetonecloud.com">
-    <img src="https://jetonecloud.com/src/logo%20-%20transparent.png" alt="Jet1" height="64">
+    <img src="https://avatars.githubusercontent.com/u/244311199?s=200&v=4" alt="Jet1" height="64">
   </a>
 </p>
 
@@ -13,9 +13,7 @@
 
 <p align="center">
   <a href="https://jetonecloud.com">Website</a> ·
-  <a href="https://jetonecloud.com/case-studies.html">Case studies</a> ·
-  <a href="https://jetonecloud.com/calculate-your-price.html">Price calculator</a> ·
-  <a href="https://jetonecloud.com/request-demo.html">Book a technical review</a>
+  <a href="https://jetonecloud.com/book">Book a technical review</a>
 </p>
 
 ---
@@ -62,6 +60,6 @@ Issues and pull requests are welcome on any project; each repo has a `CONTRIBUTI
 
 ## Talk to an engineer
 
-[Book a 20-minute technical review](https://jetonecloud.com/request-demo.html). We'll look at how you deploy today and name the first three delivery risks we'd address, useful whether or not you work with us.
+[Book a 20-minute technical review](https://jetonecloud.com/book). We'll look at how you deploy today and name the first three delivery risks we'd address, useful whether or not you work with us.
 
 Or email [contact@jetonecloud.com](mailto:contact@jetonecloud.com).
